@@ -1,0 +1,2 @@
+node cli.js somme 5 10 15 20
+# Résultat : Somme des éléments [5, 10, 15, 20] = 50
