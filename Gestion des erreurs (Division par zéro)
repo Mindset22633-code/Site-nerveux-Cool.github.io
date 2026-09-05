@@ -1,0 +1,2 @@
+node cli.js calc 10 / 0
+# Résultat : Erreur : Division par zéro impossible !
